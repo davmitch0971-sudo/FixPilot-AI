@@ -1,6 +1,13 @@
 <p align="center">
   <img src="assets/fixpilot-logo.png" alt="FixPilot-AI Logo" width="220"/>
 </p>
+<h1 align="center">FixPilot‑AI</h1>
+<p align="center"><strong>Your autonomous repair assistant for diagnostics, optimization, and intelligent system recovery.</strong></p>
+
+<p align="center">
+FixPilot‑AI analyzes, detects, and resolves issues across systems with precision.  
+Built for speed, reliability, and real‑world troubleshooting.
+</p>
 # FixPilot‑AI  
 [![Docs](https://img.shields.io/badge/Documentation-Online-blue?style=for-the-badge)](https://davmitch0971-sudo.github.io/FixPilot-AI/)
 
