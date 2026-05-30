@@ -3,7 +3,30 @@
 FixPilot‑AI ULTRA is a source‑intelligent, multi‑engine Android diagnostic and repair system designed to run inside Termux.  
 It performs real system analysis, cleanup, safe auto‑deletion, thermal monitoring, crash detection, and automated healing routines.
 
+---# 🧠 FixPilot‑AI ULTRA SIA Suite  
+### Android + Windows | Source‑Intelligent Architect Certified
+
+FixPilot‑AI ULTRA SIA Suite is a dual‑platform troubleshooting system:
+
+- **Android (Termux)** – Mobile diagnostics, log capture, network checks, and safe repair flows.  
+- **Windows PC Edition (SIA)** – Deep diagnostics, SIA‑powered analysis, network checks, and safe repair routines.
+
 ---
+
+## 📦 Platforms
+
+### 🟢 Android (Termux)
+- Folder: `android/`
+- Main engine: `fixpilot.py`
+- Install script: `install.sh`
+- Uninstall script: `uninstall.sh`
+
+Run on Android (Termux):
+
+```bash
+cd ~/FixPilot-AI/android
+bash install.sh
+fixpilot diagnose
 
 ## 🚀 Features
 
