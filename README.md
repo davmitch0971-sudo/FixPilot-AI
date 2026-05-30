@@ -84,3 +84,21 @@ This includes:
 
 If you're evaluating FixPilot‑AI for commercial use, start with the docs — they show the full power of the system.
 
+<p align="center">
+  <img src="assets/banner.png" alt="FixPilot‑AI Banner" width="100%">
+</p>
+
+<h1 align="center">⚡ FixPilot‑AI</h1>
+<h3 align="center">Your Autonomous Troubleshooting Engineer</h3>
+
+<p align="center">
+  <b>Diagnose. Repair. Automate.</b><br>
+  FixPilot‑AI turns complex system failures into fast, automated solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Powered-Yes-00eaff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-00eaff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-00eaff?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/davmitch0971-sudo/FixPilot-AI?style=for-the-badge&color=00eaff">
+</p>
