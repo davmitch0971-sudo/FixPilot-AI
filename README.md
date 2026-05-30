@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/fixpilot-logo.png" alt="FixPilot-AI Logo" width="220"/>
+</p>
 # FixPilot‑AI  
 [![Docs](https://img.shields.io/badge/Documentation-Online-blue?style=for-the-badge)](https://davmitch0971-sudo.github.io/FixPilot-AI/)
 
