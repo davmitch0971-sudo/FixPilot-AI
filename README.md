@@ -1,114 +1,82 @@
-<p align="center">
-  <img src="assets/fixpilot-logo.png" alt="FixPilot-AI Logo" width="220"/>
-</p>
-<h1 align="center">FixPilot‑AI</h1>
-<p align="center"><strong>Your autonomous repair assistant for diagnostics, optimization, and intelligent system recovery.</strong></p>
+# FixPilot‑AI ULTRA v8.0.0 (SOURCE‑INTEL)
 
-<p align="center">
-FixPilot‑AI analyzes, detects, and resolves issues across systems with precision.  
-Built for speed, reliability, and real‑world troubleshooting.
-</p>
-<p align="center">
-  <img src="assets/banner.png" alt="FixPilot‑AI Banner" width="100%"/>
-</p>
-# FixPilot‑AI  
-[![Docs](https://img.shields.io/badge/Documentation-Online-blue?style=for-the-badge)](https://davmitch0971-sudo.github.io/FixPilot-AI/)
-
-
-
-Full documentation for FixPilot‑AI is available here:
-
-👉 **https://davmitch0971-sudo.github.io/FixPilot-AI/**
-
-This includes:
-- Installation guides
-- Module breakdowns
-- Architecture overview
-- Troubleshooting
-- Premium features
-- API references (coming soon)
-
-If you're evaluating FixPilot‑AI for commercial use, start with the docs — they show the full power of the system.
-
-
-
-Full documentation for FixPilot‑AI is available here:
-
-👉 **https://davmitch0971-sudo.github.io/FixPilot-AI/**
-<p align="center">
-  <img src="assets/banner.png" alt="FixPilot‑AI Neon Cyan Banner" width="100%">
-</p>
-
-This includes:
-- Installation guides
-- Module breakdowns
-- Architecture overview
-- Troubleshooting
-- Premium features
-- API references (coming soon)
-
-If you're evaluating FixPilot‑AI for commercial use, start with the docs — they show the full power of the system.
-
-### AI‑Powered System Repair Suite with Predictive Diagnostics & Autonomous Recovery
-
-FixPilot‑AI is a modular, self‑evolving repair engine designed to diagnose, predict, and resolve system failures across Windows, Linux, Android (Termux), and hybrid environments.  
-It combines predictive modeling, adaptive repair logic, and multi‑engine intelligence to deliver a next‑generation automated troubleshooting experience.
+FixPilot‑AI ULTRA is a source‑intelligent, multi‑engine Android diagnostic and repair system designed to run inside Termux.  
+It performs real system analysis, cleanup, safe auto‑deletion, thermal monitoring, crash detection, and automated healing routines.
 
 ---
 
-## 🚀 Core Capabilities
+## 🚀 Features
 
-- Predictive Failure Engine  
-- Autonomous Repair Actions  
-- Unified Diagnostic Framework  
-- Cross‑Platform Execution  
-- Modular AI Architecture  
-- Self‑Learning Feedback Loop  
+### 🔍 ULTRA Diagnostics (REAL DATA)
+Reads:
+- Storage usage  
+- RAM + Swap  
+- CPU load  
+- Running processes  
+- Smart Alerts (critical/warning flags)
+
+### 🧠 ULTRA Smart Alert Engine
+Real‑time danger detection:
+- Low RAM  
+- High CPU load  
+- Full storage  
+- Heavy swap usage  
+
+### 🧹 ULTRA Auto‑Cleanup Engine
+Scans for:
+- Largest directories  
+- Largest files  
+- Duplicate files  
+- Cache hogs  
+- Junk folders  
+
+(No deletion — scan only)
+
+### 🗑️ ULTRA Auto‑Delete Engine (SAFE MODE)
+Safely deletes:
+- App cache  
+- Temp files  
+- Thumbnails  
+- SoundCloud/Maps cache  
+- Zumimall leftover videos  
+- Known safe junk directories  
+
+Never deletes:
+- Photos  
+- Videos  
+- Documents  
+- App data  
+- System files  
+
+### 🌡️ ULTRA Thermal Monitor
+Reads thermal sensors (if available) and displays hottest components.
+
+### ⚙️ ULTRA Process Analyzer
+Shows top CPU/RAM processes using `top` or `ps`.
+
+### 💥 ULTRA Crash Detector
+Scans system crash directories (if readable).
+
+### ❤️ ULTRA Auto‑Heal Engine
+Logical healing routines:
+- Crash pattern analysis  
+- Internal state refresh  
+- Health indicator reset  
+
+### 🔧 ULTRA Repair & Optimization Engines
+Safe routines for:
+- Network  
+- Performance  
+- Stability  
+- Battery  
+- General system health  
 
 ---
 
-## 📦 Repository Structure
+## 📦 Installation
 
-
-Full documentation for FixPilot‑AI is available here:
-
-👉 **https://davmitch0971-sudo.github.io/FixPilot-AI/**
-
-This includes:
-- Installation guides  
-- Module breakdowns  
-- Architecture overview  
-- Troubleshooting  
-- Premium features  
-- API references (coming soon)
-
-If you're evaluating FixPilot‑AI for commercial use, start with the docs — they show the full power of the system.
-
-<p align="center">
-  <img src="assets/banner.png" alt="FixPilot‑AI Banner" width="100%">
-</p>
-
-<h1 align="center">⚡ FixPilot‑AI</h1>
-<h3 align="center">Your Autonomous Troubleshooting Engineer</h3>
-
-<p align="center">
-  <b>Diagnose. Repair. Automate.</b><br>
-  FixPilot‑AI turns complex system failures into fast, automated solutions.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Powered-Yes-00eaff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-00eaff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-00eaff?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/davmitch0971-sudo/FixPilot-AI?style=for-the-badge&color=00eaff">
-</p>
-## 🚀 Overview
-FixPilot‑AI is an autonomous troubleshooting intelligence system designed to diagnose, repair, and optimize environments automatically.
-
-## ⚙️ Features
-- Autonomous diagnostics
-- Self‑healing repair modules
-- AI‑driven recommendations
-- Modular architecture
-- Fast deployment
-- Secure execution
+```bash
+pkg install -y python
+git clone https://github.com/YOURNAME/FixPilot-AI.git
+cd FixPilot-AI
+./install.sh
