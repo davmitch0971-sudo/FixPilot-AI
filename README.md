@@ -102,3 +102,13 @@ If you're evaluating FixPilot‑AI for commercial use, start with the docs — t
   <img src="https://img.shields.io/badge/Status-Active-00eaff?style=for-the-badge">
   <img src="https://img.shields.io/github/license/davmitch0971-sudo/FixPilot-AI?style=for-the-badge&color=00eaff">
 </p>
+## 🚀 Overview
+FixPilot‑AI is an autonomous troubleshooting intelligence system designed to diagnose, repair, and optimize environments automatically.
+
+## ⚙️ Features
+- Autonomous diagnostics
+- Self‑healing repair modules
+- AI‑driven recommendations
+- Modular architecture
+- Fast deployment
+- Secure execution
