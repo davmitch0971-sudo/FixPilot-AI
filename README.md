@@ -8,6 +8,9 @@
 FixPilot‑AI analyzes, detects, and resolves issues across systems with precision.  
 Built for speed, reliability, and real‑world troubleshooting.
 </p>
+<p align="center">
+  <img src="assets/banner.png" alt="FixPilot‑AI Banner" width="100%"/>
+</p>
 # FixPilot‑AI  
 [![Docs](https://img.shields.io/badge/Documentation-Online-blue?style=for-the-badge)](https://davmitch0971-sudo.github.io/FixPilot-AI/)
 
@@ -32,6 +35,9 @@ If you're evaluating FixPilot‑AI for commercial use, start with the docs — t
 Full documentation for FixPilot‑AI is available here:
 
 👉 **https://davmitch0971-sudo.github.io/FixPilot-AI/**
+<p align="center">
+  <img src="assets/banner.png" alt="FixPilot‑AI Neon Cyan Banner" width="100%">
+</p>
 
 This includes:
 - Installation guides
