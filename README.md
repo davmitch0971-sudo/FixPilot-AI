@@ -168,3 +168,116 @@ MIT License — modify, integrate, enhance.
 
 # 🤝 **Premium Support**
 Email: **FixPilotAI.Support@proton.me**
+
+
+---
+
+# ❓ **FAQ — Frequently Asked Questions**
+
+## **[What is FixPilot‑AI?](ca://s?q=What_is_FixPilot_AI)**
+FixPilot‑AI is an offline‑capable automation and repair engine that fixes code, repairs systems, and generates scripts instantly. It works on Windows, Linux, and Android (Termux).
+
+---
+
+## **[Does FixPilot‑AI require an internet connection?](ca://s?q=Does_FixPilot_AI_require_internet)**
+No.  
+FixPilot‑AI works **100% offline** after installation.  
+Your code and system data never leave your device.
+
+---
+
+## **[What can FixPilot‑AI fix?](ca://s?q=What_can_FixPilot_AI_fix)**
+- Python errors  
+- JavaScript issues  
+- Shell script problems  
+- Windows system faults  
+- Linux dependency issues  
+- Termux environment problems  
+- Corrupted configs  
+- Broken automation workflows  
+
+If it’s code or system‑related, FixPilot‑AI can fix it.
+
+---
+
+## **[What’s the difference between Basic, Pro, and Ultra?](ca://s?q=FixPilot_AI_Pricing_Differences)**
+
+### **Basic — $4.99**
+- Core engine  
+- Basic repairs  
+- Good for beginners  
+
+### **Pro — $19.99 (Most Popular)**
+- Full repair engine  
+- Automation suite  
+- Script generator  
+- Best value for most users  
+
+### **Ultra — $49.99**
+- Everything in Pro  
+- Ultra engine (3× faster)  
+- PC Ultra Edition  
+- Advanced automation  
+- Power‑user features  
+
+---
+
+## **[Is this a subscription?](ca://s?q=Is_FixPilot_AI_a_subscription)**
+No.  
+FixPilot‑AI is a **one‑time purchase** with lifetime access.
+
+---
+
+## **[How fast does it work?](ca://s?q=How_fast_is_FixPilot_AI)**
+Most repairs take **5–30 seconds** depending on the issue.
+
+Ultra Edition is the fastest.
+
+---
+
+## **[Is the download instant?](ca://s?q=Is_FixPilot_AI_instant_download)**
+Yes.  
+After PayPal checkout, you are **auto‑redirected** to the download page immediately.
+
+---
+
+## **[Does FixPilot‑AI work on phones?](ca://s?q=Does_FixPilot_AI_work_on_phones)**
+Yes — on Android using Termux.
+
+---
+
+## **[Can I use FixPilot‑AI on multiple devices?](ca://s?q=FixPilot_AI_multiple_devices)**
+Yes.  
+Your license covers **all your personal devices**.
+
+---
+
+## **[Is there support if I need help?](ca://s?q=FixPilot_AI_support)**
+Yes — premium support is available at:
+
+**FixPilotAI.Support@proton.me**
+
+---
+
+## **[Is FixPilot‑AI safe?](ca://s?q=Is_FixPilot_AI_safe)**
+Yes.  
+FixPilot‑AI is hosted on GitHub, uses no telemetry, and runs offline.
+
+---
+
+## **[Why is the price increasing soon?](ca://s?q=FixPilot_AI_price_increase_reason)**
+Because demand is high and new features are being added.  
+Early buyers get lifetime access at the lower price.
+
+---
+
+## **[What if it doesn’t fix my issue?](ca://s?q=FixPilot_AI_issue_not_fixed)**
+FixPilot‑AI includes:
+- multiple repair modes  
+- fallback engines  
+- auto‑script generation  
+- manual override tools  
+
+In 99% of cases, it finds a solution.
+
+---
