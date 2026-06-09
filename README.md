@@ -15,7 +15,7 @@ The fastest way to fix code, repair systems, and automate everything — instant
 **Latest Version:**  
 [FixPilot‑AI‑v8.0.4.zip](https://github.com/davmitch0971-sudo/FixPilot-AI/releases/download/v8.0.4/FixPilot-AI-v8.0.4.zip)
 
----
+------
 
 # ⚡ **What FixPilot‑AI Does**
 - Fixes broken code automatically  
@@ -47,7 +47,7 @@ Best value for most users.
 For power users who want everything.  
 [![Buy Ultra – $49.99](https://img.shields.io/badge/Buy%20Ultra-%2449.99-orange?style=for-the-badge)](https://paypal.me/mitchdav0518/49.99)
 
----
+------
 
 # 🛡️ **Trust & Safety**
 
@@ -70,21 +70,6 @@ For power users who want everything.
 ![Trusted](https://img.shields.io/badge/Trusted_By-Developers-blue?style=for-the-badge)
 
 ---
-
-# 🗣️ **Testimonial Wall**
-
-> **“FixPilot‑AI fixed a Python script I struggled with for 3 days.”**  
-> — Software Engineer  
-
-> **“Ultra Edition repaired my PC and automated my workflow in minutes.”**  
-> — IT Technician  
-
-> **“The automation engine alone is worth the price.”**  
-> — Power User  
-
-> **“I use FixPilot‑AI every day. It’s part of my toolkit now.”**  
-> — Developer  
-
 ---
 
 # ⏳ **Limited‑Time Availability**
@@ -110,4 +95,13 @@ pkg update && pkg upgrade
 pkg install python git
 git clone https://github.com/davmitch0971-sudo/FixPilot-AI
 cd FixPilot-AI
-bash install_fixpilot.sh 
+bash install_fixpilot.sh
+---
+
+# 🖥️ **Linux**
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 git -y
+git clone https://github.com/davmitch0971-sudo/FixPilot-AI
+cd FixPilot-AI
+bash install_fixpilot.sh
