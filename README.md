@@ -110,4 +110,4 @@ pkg update && pkg upgrade
 pkg install python git
 git clone https://github.com/davmitch0971-sudo/FixPilot-AI
 cd FixPilot-AI
-bash install_fixpilot.sh
+bash install_fixpilot.sh 
