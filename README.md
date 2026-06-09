@@ -280,4 +280,67 @@ FixPilot‑AI includes:
 
 In 99% of cases, it finds a solution.
 
+
+             Refund policy 
+
+
 ---
+
+# 💰 **Refund Policy (Trust‑Boosting Guarantee)**
+
+## **[Do you offer refunds?](ca://s?q=FixPilot_AI_Refunds)**
+Yes — FixPilot‑AI offers a **fair, transparent refund policy** designed to protect buyers while preventing abuse.
+
+---
+
+## **[How does the refund policy work?](ca://s?q=FixPilot_AI_Refund_Policy_Details)**
+
+You are eligible for a refund if:
+
+- You purchased FixPilot‑AI by mistake  
+- You were unable to download the product  
+- You contacted support and your issue could not be resolved  
+- You experienced a critical problem preventing use  
+
+We will **always** try to help you first — most issues are fixed in minutes.
+
+---
+
+## **[When are refunds NOT given?](ca://s?q=FixPilot_AI_No_Refund_Cases)**
+
+Refunds are **not** issued if:
+
+- You downloaded the product and simply changed your mind  
+- You used the tool and want a refund after benefiting from it  
+- You attempt to abuse the refund system  
+- You request a refund after 7 days  
+
+This protects the product from piracy and misuse.
+
+---
+
+## **[How long do refunds take?](ca://s?q=FixPilot_AI_Refund_Time)**
+
+Refunds are processed through PayPal and typically take:
+
+- **Instant to 48 hours** depending on your bank  
+- You will receive an email confirmation from PayPal  
+
+---
+
+## **[How do I request a refund?](ca://s?q=FixPilot_AI_Request_Refund)**
+
+Just email:
+
+**FixPilotAI.Support@proton.me**
+
+Include:
+
+- Your PayPal email  
+- Transaction ID  
+- Reason for refund  
+
+We respond quickly and professionally.
+
+---
+
